@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 동네픽
 
 동네 카페와 맛집의 신메뉴, 할인 소식, 방문 인증을 공유하는 모바일 로컬 피드입니다.
@@ -23,3 +24,6 @@ SQLite는 Node.js 내장 모듈을 사용하므로 별도 DB 설치가 필요 �
 SQLite의 `users`, `posts`, `comments`, `likes` 테이블을 사용합니다. 데이터베이스 파일은 처음 실행할 때 `config/data/contacts.sqlite`에 생성됩니다.
 
 카카오 로그인은 REST API 키와 Redirect URI 등록 등 카카오 개발자 설정이 필요하므로 포함하지 않았습니다. 현재 회원가입·로그인 기능을 사용할 수 있습니다.
+=======
+# cafesnsnode
+>>>>>>> ea8802c39b216d80651fe023572bd83fdb356bd7
